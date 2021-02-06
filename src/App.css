@@ -2,7 +2,11 @@
   text-align: left;
 }
 
-
+.container {
+  margin: 30px;
+  background-color: lightgray;
+  border-radius: 20px;
+}
 
 .App-header {
   background-color: #282c34;
